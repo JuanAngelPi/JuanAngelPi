@@ -24,7 +24,7 @@
 - 🎨 **Drawing:** I draw comic characters like spiderman or invincible and sometimes I'm brave enough to draw pokemons.
 - ♟️ **Chess:** My elo is not great but my enjoyment for the game surely is. If you would like to face me, follow me on Chess.com: https://www.chess.com/member/chessjuanpi
 - 🏈 **Sports:** Running, swimming and padel are my main sports but I used to play american football in Spain where I won the junior national championship 🏆.
-- 🏎️ **Motorsports:** I was part of MAD Formula Team the Formula Student team of Universidad Carlos III de Madrid. I enjoy watching MotoGP and F1 🏁.
+- 🏎️ **Motorsports:** I was part of MAD Formula Team, the Formula Student team of Universidad Carlos III de Madrid. I also enjoy watching MotoGP and F1 🏁.
 - ✍️ **Writing:** Sometimes I like posting in my personal substack named Swamp Sports: https://swampsports.substack.com/
 
 ## Skills 🤓
