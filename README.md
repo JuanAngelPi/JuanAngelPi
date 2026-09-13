@@ -11,7 +11,7 @@
 ## About Me 🍊
 
  I'm an economist and a statistician with a particular interest in sport analytics ⚾️🎾🥎 and spatial data 🗺️. 
- And yes I do love spiderman 
+ And yes I do love spiderman 🕷️​.
  
  ## Main Interests 🥑
  
@@ -21,11 +21,19 @@
 - 🏦 **Economics:** Trying to get inside the economic mechanisms which make us thrive, special interest in econometrics and market design.
 
 ## Personal Hobbies ✨
-- 
-
+- 🎨 **Drawing:** I draw comic characters like spiderman or invincible and sometimes I'm brave enough to try pokemons.
+- ♟️ **Chess:** My elo is not great but my enjoyment of the game surely is. If you would like to face me follow me on Chess.com: https://www.chess.com/member/chessjuanpi
+- 🏈 **Sports:** Running, swimming and padel are my main sports but I used to play american football in Spain where I won the junior national championship 🏆.
+- ✍️ **Writing:** Sometimes I like posting in my personal substack named Swamp Sports: https://swampsports.substack.com/
 
 ## Skills
 - **Programming:** `R`, `Python` and `SQL`
+- **Source Code Editors:** VS Code, Positron and R Studio
+- **Languages:** Spanish (Native), English (Advanced), Catalan (Basic) and Italian (Basic).
+
+## You Can Find Me Here 👇
+- **LinkedIN:** https://www.linkedin.com/in/juan-angel-perez-corcoles/
+- **Personal Website:** https://juanangelpi.github.io/
 
 
 
