@@ -25,7 +25,7 @@
 
 
 ## Skills
-- **Programming:** "R"
+- **Programming:** `R`, `Python` and `SQL`
 
 
 
