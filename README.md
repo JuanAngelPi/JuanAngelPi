@@ -26,7 +26,7 @@
 - 🏈 **Sports:** Running, swimming and padel are my main sports but I used to play american football in Spain where I won the junior national championship 🏆.
 - ✍️ **Writing:** Sometimes I like posting in my personal substack named Swamp Sports: https://swampsports.substack.com/
 
-## Skills
+## Skills 🤓
 - **Programming:** `R`, `Python` and `SQL`
 - **Source Code Editors:** VS Code, Positron and R Studio
 - **Languages:** Spanish (Native), English (Advanced), Catalan (Basic) and Italian (Basic).
