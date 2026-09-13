@@ -22,7 +22,7 @@
 
 ## Personal Hobbies ✨
 - 🎨 **Drawing:** I draw comic characters like spiderman or invincible and sometimes I'm brave enough to try pokemons.
-- ♟️ **Chess:** My elo is not great but my enjoyment of the game surely is. If you would like to face me follow me on Chess.com: https://www.chess.com/member/chessjuanpi
+- ♟️ **Chess:** My elo is not great but my enjoyment for the game surely is. If you would like to face me, follow me on Chess.com: https://www.chess.com/member/chessjuanpi
 - 🏈 **Sports:** Running, swimming and padel are my main sports but I used to play american football in Spain where I won the junior national championship 🏆.
 - ✍️ **Writing:** Sometimes I like posting in my personal substack named Swamp Sports: https://swampsports.substack.com/
 
